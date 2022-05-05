@@ -1,0 +1,18 @@
+{
+  "account": [
+    {
+      "userName": "alt.rq-e6dbd9l@yopmail.com",
+      "passWord": "cuong@123",
+      "nameCustomerPO": "Cuong Vo"
+
+    }
+  ],
+  "product": [
+    {
+      "sku": "RM2002XL",
+      "nameProduct": "OXFORD RAINSEAL OVER PANTS 2X",
+      "price": "A$24.43",
+      "qty": "1"
+    }
+  ]
+}
